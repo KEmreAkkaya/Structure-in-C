@@ -4,7 +4,7 @@
 
 
 int i = 0;
-int dizi[30] = { 113, 122, 123, 0, 124, 143 };
+int dizi[30] = { 113, 122, 123, 0, 124, 143 };//Başlagıçta belirli sicil noya sahip kayıtlı öğrenciler var.
 int sayac = 0;
 
 
